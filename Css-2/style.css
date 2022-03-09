@@ -1,0 +1,44 @@
+h1{
+    color: red;
+    background-color:royalblue;
+}
+.Green{
+    color: chartreuse;
+}
+.Red{
+    color: rgb(21, 105, 32);
+}
+.One{
+    color: blue;
+    background-color: aqua;
+    width: 70%;
+    text-transform: capitalize;
+    margin: auto;
+    letter-spacing: 20%;
+    line-height: 2;
+}
+.Two{
+    color:white;
+    background-image:url(two.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    width:70%;
+    margin:auto;
+    text-transform: uppercase;
+    background-size: cover;
+    background-position: bottom;
+    letter-spacing: 30%;
+    line-height: 2;
+    text-decoration-style: dashed;
+    text-decoration: underline;
+    font-size:large;
+
+
+}
+P{
+    background-color: green;
+}
+
+
+
+
